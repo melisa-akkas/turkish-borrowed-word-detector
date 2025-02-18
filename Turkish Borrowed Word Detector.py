@@ -1,5 +1,5 @@
 
-#This project was made together with Ceren Oksal and Muaz Alemdar, both of whom are Linguistics graduates from Boğaziçi University.
+#This project was made with the contributions of Melisa Akkaş, Ceren Oksal and Muaz Alemdar, all of whom are Linguistics graduates from Boğaziçi University.
 
 #STEMMER
 pip install TurkishStemmer
